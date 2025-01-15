@@ -85,6 +85,8 @@ Here's a sentence with a footnote. [^1]
 term
 : definition
 
+Test
+
 ### Strikethrough
 
 ~~The world is flat.~~
